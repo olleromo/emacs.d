@@ -1,0 +1,30 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("BuildHeap.java"
+ (filename . "~/COURSERA/Basic_Datastructures/Starters PA2/make_heap/BuildHeap.java")
+ (front-context-string . "\n    public stat")
+ (rear-context-string . "rintWriter out;\n")
+ (position . 269))
+("c"
+ (filename . "~/.emacs.d/lisp/user-customizations.el")
+ (front-context-string . ";sets the auto-s")
+ (rear-context-string . "expand-region)\n\n")
+ (position . 1452))
+("b"
+ (filename . "~/CLOJURE/netty/src/netty/EchoServer.clj")
+ (front-context-string . "    ;;     publi")
+ (rear-context-string . ";\n    ;;     }\n\n")
+ (position . 2251))
+("a"
+ (filename . "~/.emacs.d/lisp/user-customizations.el")
+ (front-context-string . "(require 'org)\n(")
+ (rear-context-string . "online about it\n")
+ (position . 9178))
+("user-customizations.el"
+ (filename . "~/.emacs.d/lisp/user-customizations.el")
+ (front-context-string . "\n;adds color mat")
+ (rear-context-string . "refactor-nrepl)\n")
+ (position . 1769))
+)

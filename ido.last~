@@ -1,0 +1,451 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/or/CLOJURE/olleromo/resources/public/" . "static/")
+ ("/Users/or/CLOJURE/olleromo/resources/" . "public/")
+ ("/Users/or/CLOJURE/olleromo/src/" . "olleromo/")
+ ("/Users/or/CLOJURE/olleromo/src/olleromo/" . "endpoints/")
+ ("/Users/or/CLOJURE/reverie/reverie-core/src/" . "reverie/")
+ ("/Users/or/CLOJURE/reverie/reverie-core/" . "src/")
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/reverie/sql/" . "objects/")
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/reverie/" . "sql/")
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/" . "reverie/")
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/" . "src/")
+ ("/Users/or/CLOJURE/reverie/" . "reverie-core/")
+ ("/Users/or/CLOJURE/olleromo/reverie/src/" . "reverie/")
+ ("/Users/or/CLOJURE/olleromo/reverie/" . "src/")
+ ("/Users/or/CLOJURE/olleromo/" . "src/")
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/cljs/" . "joy/")
+ ("/Users/or/UDACITY/restaurants/resources/public/css/" . "min/")
+ ("/Users/or/UDACITY/restaurants/resources/public/" . "css/")
+ ("/Users/or/UDACITY/restaurants/resources/" . "public/")
+ ("/Users/or/UDACITY/restaurants/src/" . "html/")
+ ("/Users/or/UDACITY/restaurants/" . "src/")
+ ("/Users/or/UDACITY/public_transportation/resources/public/css/" . "min/")
+ ("/Users/or/UDACITY/public_transportation/test/" . "public_transportation/")
+ ("/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/scss/" . "settings/")
+ ("/Users/or/UDACITY/public_transportation/src/html/" . "templates/")
+ ("/Users/or/UDACITY/public_transportation/resources/public/" . "css/")
+ ("/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/" . "scss/")
+ ("/Users/or/UDACITY/public_transportation/resources/" . "public/")
+ ("/Users/or/CLOJURE/clj-soap/src/" . "clj_soap/")
+ ("/Users/or/CLOJURE/clj-soap/" . "src/")
+ ("/Users/or/UDACITY/fastform/src/" . "fastform/")
+ ("/Users/or/UDACITY/fastform/" . "src/")
+ ("/Users/or/UDACITY/public_transportation/src/" . "js/")
+ ("/Users/or/UDACITY/public_transportation/node_modules/" . "foundation-sites/")
+ ("/Users/or/UDACITY/public_transportation/" . "src/")
+ ("/Users/or/UDACITY/" . "restaurants/")
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/data/" . "planets/")
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/" . "data/")
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/site/app/images/" . "touch/")
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/site/app/" . "images/")
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/site/" . "app/")
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/" . "app/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/test/" . "spec/")
+ ("/Users/or/CLOJURE/UDACITY/fastform/resources/public/foundation-6/" . "js/")
+ ("/Users/or/CLOJURE/UDACITY/fastform/resources/public/" . "js/")
+ ("/Users/or/CLOJURE/UDACITY/fastform/resources/" . "public/")
+ ("/Users/or/CLOJURE/UDACITY/fastform/src/fastform/" . "framework/")
+ ("/Users/or/CLOJURE/UDACITY/fastform/src/" . "fastform/")
+ ("/Users/or/CLOJURE/UDACITY/fastform/" . "resources/")
+ ("/Users/or/CLOJURE/UDACITY/" . "exoplanet-explorer/")
+ ("/Users/or/JAVASCRIPT/udacity-frontend/public3/" . "css/")
+ ("/Users/or/JAVASCRIPT/udacity-frontend/" . "public/")
+ ("/Users/or/Downloads/" . "start/")
+ ("/Users/or/.gem/ruby/2.0.0/" . "cache/")
+ ("/Users/or/.gem/ruby/" . "2.0.0/")
+ ("/Users/or/.gem/" . "specs/")
+ ("/Users/or/JAVASCRIPT/nutch-webapp/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/resources/public/" . "css/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/resources/" . "public/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/src/clj/" . "nutch_webapp/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/src/" . "clj/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/" . "resources/")
+ ("/Users/or/.m2/repository/com/ning/async-http-client/" . "1.7.10/")
+ ("/Users/or/.m2/repository/com/ning/" . "async-http-client/")
+ ("/Users/or/.m2/repository/com/" . "ning/")
+ ("/Users/or/.m2/repository/http/async/client/http.async.client/" . "0.5.2/")
+ ("/Users/or/.m2/repository/http/async/client/" . "http.async.client/")
+ ("/Users/or/.m2/repository/http/async/" . "client/")
+ ("/Users/or/.m2/repository/http/" . "async/")
+ ("/Users/or/.m2/repository/" . "com/")
+ ("/Users/or/.m2/" . "repository/")
+ ("/Users/or/CLOJURE/twitter-api/src/" . "twitter/")
+ ("/Users/or/CLOJURE/twitter-api/" . "src/")
+ ("/Users/or/CLOJURE/operascope/src/operascope/" . "views/")
+ ("/Users/or/CLOJURE/operascope/src/" . "operascope/")
+ ("/Users/or/CLOJURE/operascope/" . "src/")
+ ("/Users/or/JAVASCRIPT/Mastering JavaScript Design Patterns/" . "Chapter 10/")
+ ("/Users/or/JAVASCRIPT/" . "udacity-frontend/")
+ ("/" . "Users/")
+ ("/Users/or/CLOJURE/Clojure Reactive Programming_Code/chapter01/sin-wave/src/cljs/" . "sin_wave/")
+ ("/Users/or/CLOJURE/Clojure Reactive Programming_Code/chapter01/sin-wave/src/clj/" . "sin_wave/")
+ ("/Users/or/CLOJURE/Clojure Reactive Programming_Code/chapter01/sin-wave/src/" . "clj/")
+ ("/Users/or/CLOJURE/Clojure Reactive Programming_Code/chapter01/sin-wave/" . "src/")
+ ("/Users/or/CLOJURE/Clojure Reactive Programming_Code/chapter01/" . "sin-wave/")
+ ("/Users/or/CLOJURE/Clojure Reactive Programming_Code/" . "chapter01/")
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/clj/joy/" . "gui/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch-webapp/src/cljs/" . "nutch_webapp/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutchweblib/src/" . "nutchweblib/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutchweblib/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch-webapp/src/cljc/" . "nutch_webapp/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch-webapp/src/clj/" . "nutch_webapp/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch-webapp/src/" . "clj/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch-webapp/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp-dir/" . "nutch_webapp/")
+ ("/Users/or/CLOJURE/nutch-webapp-reagent/src/cljs/" . "nutch_webapp_reagent/")
+ ("/Users/or/CLOJURE/nutch-webapp-reagent/src/cljc/" . "nutch_webapp_reagent/")
+ ("/Users/or/CLOJURE/nutch-webapp-reagent/src/clj/" . "nutch_webapp_reagent/")
+ ("/Users/or/CLOJURE/nutch-webapp-reagent/src/" . "cljc/")
+ ("/Users/or/CLOJURE/nutch-webapp-reagent/" . "src/")
+ ("/Users/or/CLOJURE/reagent-template/src/leiningen/" . "new/")
+ ("/Users/or/CLOJURE/reagent-template/src/" . "leiningen/")
+ ("/Users/or/CLOJURE/reagent-template/" . "src/")
+ ("/Users/or/JAVA/nutch-2.4-SNAPSHOT/runtime/local/" . "lib/")
+ ("/Users/or/JAVA/nutch-2.4-SNAPSHOT/runtime/" . "local/")
+ ("/Users/or/JAVA/nutch-2.4-SNAPSHOT/" . "runtime/")
+ ("/Users/or/JAVA/" . "nutch-2.4-SNAPSHOT/")
+ ("/Users/or/CLOJURE/nutchweblib/src/" . "nutchweblib/")
+ ("/Users/or/CLOJURE/nutchweblib/" . "src/")
+ ("/Users/or/CLOJURE/hara/src/hara/" . "class/")
+ ("/Users/or/CLOJURE/hara/src/" . "hara/")
+ ("/Users/or/CLOJURE/hara/" . "src/")
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/clj/" . "joy/")
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/" . "cljs/")
+ ("/Users/or/CLOJURE/JoyOfClojureBook/" . "prod-target/")
+ ("/Users/or/CLOJURE/database/src/" . "database/")
+ ("/Users/or/CLOJURE/database/" . "src/")
+ ("/Users/or/CLOJURE/clojure/src/clj/clojure/" . "core/")
+ ("/Users/or/CLOJURE/clojure/src/clj/" . "clojure/")
+ ("/Users/or/CLOJURE/clojure/src/" . "clj/")
+ ("/Users/or/CLOJURE/clojure/" . "src/")
+ ("/Users/or/CLOJURE/threading/src/" . "threading/")
+ ("/Users/or/CLOJURE/threading/" . "src/")
+ ("/Users/or/CLOJURE/pomegranate/src/main/clojure/" . "cemerick/")
+ ("/Users/or/CLOJURE/pomegranate/src/main/" . "clojure/")
+ ("/Users/or/CLOJURE/pomegranate/src/" . "main/")
+ ("/Users/or/CLOJURE/pomegranate/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/bower_components/foundation/scss/foundation/" . "components/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/bower_components/foundation/scss/" . "foundation/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/bower_components/foundation/" . "scss/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/styles/css/" . "stylesheets/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/bower_components/bootstrap-sass-official/assets/" . "stylesheets/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/bower_components/bootstrap-sass-official/" . "assets/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/bower_components/" . "foundation/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/styles/" . "css/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/public/" . "bower_components/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/resources/" . "public/")
+ ("/Users/or/CLOJURE/blog/src/" . "cljs/")
+ ("/Users/or/CLOJURE/blog/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp-cljs/" . "nutch-webapp/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/src/" . "nutch_webapp_front/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-front/" . "resources/")
+ ("/Users/or/.emacs.d/elpa/" . "scss-mode-0.5.0/")
+ ("/Users/or/CLOJURE/clojure-conj-2013-core.async-examples/src/" . "clojure_conj_talk/")
+ ("/Users/or/CLOJURE/clojure-conj-2013-core.async-examples/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-back/src/" . "nutch_webapp_back/")
+ ("/Users/or/CLOJURE/nutch-webapp/nutch-webapp-back/" . "src/")
+ ("/Users/or/CLOJURE/nutch-webapp/" . "nutch-webapp-back/")
+ ("/Users/or/CLOJURE/clojurescript/" . "devnotes/")
+ ("/Users/or/CLOJURE/" . "olleromo/")
+ ("/Users/or/Documents/Music Room/" . "music room org files/")
+ ("/Users/or/Documents/" . "Music Room/")
+ ("/Users/or/ORG/" . "org/")
+ ("/Users/or/ERLANG/splurty/web/templates/" . "layout/")
+ ("/Users/or/ERLANG/splurty/web/" . "templates/")
+ ("/Users/or/ERLANG/splurty/" . "web/")
+ ("/Users/or/ERLANG/ara/node_modules/brunch/" . "lib/")
+ ("/Users/or/ERLANG/ara/node_modules/" . "sass-brunch/")
+ ("/Users/or/ERLANG/ara/angular/app/" . "assets/")
+ ("/Users/or/ERLANG/ara/angular/" . "app/")
+ ("/Users/or/ERLANG/ara/angular-brunch-seed-no-fuss/" . "app/")
+ ("/Users/or/ERLANG/ara/web/static/vendor/" . "bootstrap-sass-3.3.4/")
+ ("/Users/or/ERLANG/ara/priv/" . "repo/")
+ ("/Users/or/ERLANG/ara/web/static/" . "css/")
+ ("/Users/or/ERLANG/ara/web/templates/" . "layout/")
+ ("/Users/or/ERLANG/ara/web/" . "templates/")
+ ("/Users/or/ERLANG/ara/" . "web/")
+ ("/Users/or/ERLANG/anetteankarcrona/web/" . "controllers/")
+ ("/Users/or/ERLANG/anetteankarcrona/" . "web/")
+ ("/Users/or/ERLANG/operascope/" . "web/")
+ ("/Users/or/.emacs.d/" . "lisp/")
+ ("/Users/" . "or/")
+ ("/Users/or/ERLANG/elixir_friends/web/" . "controllers/")
+ ("/Users/or/ERLANG/elixir_friends/" . "tryout/")
+ ("/Users/or/ERLANG/" . "ara/")
+ ("/Users/or/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/or/.emacs.d/lisp/"
+ "/Users/or/.emacs.d/"
+ "/Users/or/UDACITY/restaurants/src/html/"
+ "/Users/or/.emacs.d/web-mode/"
+ "/Users/or/ORG/"
+ "/Users/or/UDACITY/restaurants/src/clj/"
+ "/Users/or/UDACITY/restaurants/src/js/"
+ "/Users/or/UDACITY/restaurants/resources/public/js/"
+ "/Users/or/UDACITY/public_transportation/src/sass/"
+ "/Users/or/UDACITY/public_transportation/src/js/"
+ "/Users/or/UDACITY/public_transportation/src/clj/"
+ "/Users/or/UDACITY/public_transportation/src/html/"
+ "/Users/or/UDACITY/public_transportation/src/html/templates/"
+ "/Users/or/UDACITY/public_transportation/"
+ "/Users/or/UDACITY/restaurants/src/sass/"
+ "/Users/or/UDACITY/restaurants/"
+ "/Users/or/FREECODECAMP/"
+ "/Users/or/Downloads/"
+ "/Users/or/CLOJURE/olleromo/src/olleromo/"
+ "/Users/or/CLOJURE/olleromo/"
+ "/Users/or/CLOJURE/olleromo/src/olleromo/endpoints/"
+ "/Users/or/CLOJURE/olleromo/src/olleromo/templates/"
+ "/Users/or/CLOJURE/olleromo/src/olleromo/apps/"
+ "/Users/or/CLOJURE/olleromo/reverie/src/reverie/"
+ "/Users/or/.lein/"
+ "/Users/or/CLOJURE/JoyOfClojureBook/"
+ "/Users/or/CLOJURE/JoyOfClojureBook/src/cljs/joy/"
+ "/Users/or/CLOJURE/JoyOfClojureBook/src/clj/joy/gui/"
+ "/Users/or/UDACITY/restaurants/resources/public/css/min/"
+ "/Users/or/.emacs.d/elpa/scss-mode-0.5.0/"
+ "/Users/or/.emacs.d/elpa/sass-mode-3.0.18/"
+ "/Users/or/UDACITY/restaurants/resources/public/css/"
+ "/Users/or/UDACITY/restaurants/src/scss/"
+ "/Users/or/UDACITY/public_transportation/test/public_transportation/"
+ "/Users/or/UDACITY/public_transportation/resources/public/css/"
+ "/Users/or/UDACITY/public_transportation/resources/public/css/min/"
+ "/Users/or/UDACITY/public_transportation/resources/public/js/"
+ "/Users/or/UDACITY/exoplanet-explorer/"
+ "/Users/or/UDACITY/fastform/"
+ "/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/scss/settings/"
+ "/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/scss/"
+ "/Users/or/UDACITY/public_transportation/resources/public/"
+ "/Users/or/CLOJURE/clj-soap/src/clj_soap/"
+ "/Users/or/UDACITY/fastform/src/fastform/"
+ "/Users/or/UDACITY/public_transportation/src/"
+ "/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/src/clj/"
+ "/Users/or/UDACITY/public_transportation/src/public_transportation/"
+ "/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/"
+ "/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/data/planets/"
+ "/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/scripts/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "user-customizations.el"
+ "init.el"
+ "googlemaps.html"
+ "run.sh"
+ "README.md"
+ "emacs.org"
+ "handler.clj"
+ "server.clj"
+ "app.js"
+ "app-min.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/or/.emacs.d/lisp/" (22283 60330 0 0) "user-customizations.el~" "user-customizations.el" "cfg-paredit.el" "cfg-hlsexp.el" "cfg-flycheck.el" "cfg-cljrefactor.el" "cfg-cider.el" ".DS_Store" "../" "./")
+
+ ("/Users/or/.emacs.d/" (22283 60449 0 0) "web-mode/" "url/" "tramp" "themes/" "site-lisp/" "README.md" "profiles_sample.clj" "orginit.el" "lisp/" "init.el" "ido.last~" "ido.last" "example-config/" "elpa/" "cider-history" "bookmarks" "auto-save-list/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/or/" (22283 59029 0 0) "Zend/" "wp-config.php" "wordpress.pem" "WebstormProjects/" "VirtualBox VMs/" "vimwiki/" "vimsettings.otl" "vimfiles.dmg" "vimfiles/" "VIDEOS/" "untitled folder/" "UDACITY/" "ubuntu.pem" "tmp/" "test.mv.db" "SUPERCOLLIDER/" "springsource/" "Splice/" "Sites/" "SCHEME/" "SCALA/" "RUST/" "ruby.pem" "RUBY/" "root@107.21.125.98" "robots.txt" "PYTHON/" "Public/" "protobuf-2.5.0.tar.gz" "protobuf-2.5.0/" "Pictures/" "PhpstormProjects/" "PHP/" "pgadmin.log" "ORG/" "npm/" "node_modules/" "node/" "NetBeansProjects/" "my_app/" "Music/" "Movies/" "logs/" "local/" "Library/" "liblwjgl.jnilib" "JAVASCRIPT/" "JAVA/" "irc-saves/" "IdeaProjects/" "id_rsa.pub" "id_rsa" "HADOOP/" "groovegeek/" "GO/" "gbdotfiles/" "FTP stuff/" "FREECODECAMP/" "ERLANG/" "EPUB/" "electrum-private-keys.csv" "eclipse/" "ebin" "Dropbox/" "Downloads/" "Documents/" "DOCKER/" "Desktop/" "deletefiles" "COURSERA/" "config_CHOREGIES.xml" "config/" "CLOJURE/" "C/" "BLOG/" "bin/" "bacula/" "AT.postflight.79605" "Ashleytrks" "Applications/" "AndroidStudioProjects/" "algs4/" "akka-java-spring/" "2" "1" "0" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zsh_history" ".zsh-update" ".zs" ".zprofile.pysave" ".zprofile" ".ZendStudio/" ".zend/" ".zcompdump-powerbook-5.0.8" ".zcompdump-powerbook-5.0.5" ".zcompdump-powerbook-5.0.2" ".zcompdump-powerbook-4.3.11" ".zcompdump-powerbook (3)-5.0.5.powerbook-2.local.11756" ".zcompdump-powerbook (3)-5.0.5" ".zcompdump-powerbook (2)-5.0.5" ".zcompdump" ".yaws/" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".vimrc.swp" ".vimrc.old" ".vimrc.before" ".vimrc.after" ".vimrc" ".viminfo-old" ".viminfo" ".vim.old/" ".vim/" ".vagrant.d/" ".v8flags.4.6.85.31.or.json" ".v8flags.3.14.5.9.or.json" ".Trash/" ".tooling/" ".tmuxinator/" ".tmux.conf" ".terminfo/" ".TemporaryItems/" ".swp" ".subversion/" ".ssh/" ".sqlworkbench/" ".sourceattacher/" ".smex-items" ".screenrc" ".scala_history" ".sbt/" ".saves/" ".rstudio-desktop/" ".rs/" ".rnd" ".Rhistory" ".razorsql/" ".Rapp.history" ".railsrc" ".R/" ".python-eggs/" ".psql_history" ".psi/" ".pryrc" ".pry_history" ".profile" ".pgpass" ".p2/" ".ovftool.ssldb" ".overtone/" ".org.eclipse.epp.usagedata.recording.userId" ".oracle_jre_usage/" ".oh-my-zsh/" ".octave_hist" ".nutch/" ".npm/" ".node_repl_history" ".node-gyp/" ".netrc" ".netbeans/" ".NerdTreeBookmarks" ".nbprofiler/" ".mozilla/" ".mono/" ".mongorc.js" ".mix/" ".meteorsession" ".meteor/" ".m2/" ".local/" ".lesshst" ".lein_history" ".lein/" ".jrebel/" ".jenkins/" ".jbapps-or" ".janus/" ".jackdrc" ".ivy2/" ".irb_history" ".irb-history" ".IntelliJIdea15/" ".IntelliJIdea14/" ".iex" ".ideaLibSources/" ".idea-build/" ".hex/" ".heroku/" ".gvimrc.old" ".gvimrc" ".guard_history" ".gradle/" ".gnupg/" ".gitmodules" ".gitignore" ".githelpers" ".gitconfig" ".git_template/" ".ghc/" ".gemrc" ".gem/" ".g8/" ".fontconfig/" ".exercism.json" ".eslintrc" ".erlang_history" ".erlang.cookie" ".emacs.d/" ".electrum/" ".eclipse_keyring" ".eclipse/" ".DS_Store" ".drush/" ".dropbox/" ".drjava" ".dockercfg" ".dbshell" ".cups/" ".ctags" ".cordova/" ".conscript/" ".config/" ".composer/" ".CFUserTextEncoding" ".cargo/" ".cache/" ".cabal/" ".bzr.log" ".bundler/" ".bower/" ".boot2docker/" ".boot/" ".bin/" ".bashrc" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".appletviewer" ".android/" ".activator/" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/src/clj/" (22283 56607 0 0) "server.clj" "handler.clj" "factual.clj" "db.clj" "../" "./")
+
+ ("/Users/or/ORG/" (22283 56604 0 0) "work.org" "sbt.org" "reactive.org" "quotes.org" "private.org" "postgresql.org" "phoenix.org" "org.org" "org/" "operascope.org" "movies.org" "math.org" "make.org" "learn.org" "javascript.org" "java.org" "hadoop.org" "git.org" "first.org" "erlang.org" "emacs.org" "elixir.org" "ecto.org" "docker.org" "datascience.otl" "datascience.org" "crawler.org" "clojure.org" "cider.org" "algorithms.org" "agenda.org" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/src/html/" (22283 56542 0 0) "index.html" "googlemaps.html" ".#index.html" "#index.html#" "../" "./")
+
+ ("/Users/or/.emacs.d/web-mode/" (22282 63378 0 0) "web-mode.el" "tests/" "run.sh" "README.md" "LICENSE" "issues/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/" (22282 63038 0 0) "test/" "target/" "src/" "restaurants.iml" "resources/" "README.md" "project.clj" "plan.org" "package.json" "node_modules/" "lib/" "gulpfile.js" "eslint.config.json" "db/" ".nrepl-port" ".lein-repl-history" ".idea/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/resources/public/js/" (22267 51656 0 0) "offline.min.js" "js/" "jquery-ui.min.js" "jquery-ui.js" "jquery-ui-min.js" "jquery-1.12.1.js" "jquery-1.12.1-min.js" "app.js" "app-min.js" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/resources/public/css/min/" (22267 54231 0 0) "offline-theme-slide.css" "offline-language-english.css" "jquery-ui.theme.min.css" "jquery-ui.css" "css/" "app.css" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/resources/public/css/" (22267 52701 0 0) "offline-theme-slide.css" "offline-language-english.css" "min/" "jquery-ui.theme.min.css" "jquery-ui.css" "app.css" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/resources/public/css/min/" (22268 21322 0 0) "app.css" ".DS_Store" "../" "./")
+
+ ("/Users/or/FREECODECAMP/" (22267 34843 0 0) "url.html" "tribute.html" "personalportfolio.html" "Einstein_laughing.jpeg" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/src/sass/" (22278 63298 0 0) "app.scss" ".sass-cache/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/" (22267 56892 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "package.json" "node_modules/" "index-template.html" "gulpfile.js" "eslint.config.json" ".lein-repl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/html/" (22267 55349 0 0) "templates/" "Map.zip" "Map/" "Javascript_Search.html" "index.html" "blog.html" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/clj/" (22267 54273 0 0) "server.clj" "handler.clj" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/sass/" (22267 55878 0 0) "app.scss" ".sass-cache/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/src/js/" (22282 62489 0 0) "googlemaps.js" "autocomplete.js" "app.js" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/resources/public/js/" (22268 20592 0 0) "min/" "googlemaps.js" "app.js" "app-min.js" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/html/templates/" (22267 52352 0 0) "template.html" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/js/" (22267 32929 0 0) "query.js" "app.js" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/src/olleromo/apps/" (22263 59249 0 0) "myapp.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/src/olleromo/templates/" (22263 59249 0 0) "main.clj" "common.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/src/olleromo/endpoints/" (22263 59249 0 0) "api.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/" (22263 60429 0 0) "test/" "target/" "src/" "settings.edn" "resources/" "README.md" "project.clj" "media/" "LICENSE" "doc/" ".lein-repl-history" ".gitignore" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/src/olleromo/" (22263 64478 0 0) "templates/" "objects/" "init.clj" "endpoints/" "dev.clj" "core.clj" "command.clj" "apps/" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/target/" (22263 54935 0 0) "stale/" "repl-port" "classes/" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/resources/public/static/" (22263 52521 0 0) "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/resources/public/" (22263 52521 0 0) "static/" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/resources/" (22263 52521 0 0) "queries/" "public/" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/src/" (22263 52521 0 0) "olleromo/" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/cljs/joy/" (22263 14172 0 0) "music.cljs" "ast.cljs" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/" (22263 14186 0 0) "test/" "target/" "src/" "README.md" "project.clj" "prod-target/" "music.html" "first-edition/" "externs.js" "dev-target/" "ast.cljs" ".lein-repl-history" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/" (22263 52995 0 0) "vix/" "twitter-api/" "threads/" "threading/" "ssebook/" "reverie/" "REPO/" "olleromo/" "nutch-webapp-dir/" "monads_101.clj" "math/" "LispCast Single Page Applications with ClojureScript and Om/" "learning/" "JoyOfClojureBook/" "http-kit/" "fwpd/" "euler/" "emacscommands.org" "core.async/" "compojure-example-master/" "compojure-appliberator-service/" "clojurescript/" "clojure_machine_learning_book/" "clojure-web-dev-essentials-master/" "clojure-koans/" "clojure-conj-2013-core.async-examples/" "Clojure Reactive Programming_Code/" "clojure machine learning book/" "Clojure Data Structures and Algorithms Cookbook.zip" "Clojure Data Structures and Algorithms Cookbook/" "clojure/" "clj-soap/" "brave-clojure-web/" "ARCHIVE/" "ants.clj" "ants-st.clj" "aleph/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/olleromo/" (22263 52521 0 0) "test/" "src/" "settings.edn" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".gitignore" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-core/src/reverie/" (22263 44495 0 0) "util.clj" "time.clj" "template.clj" "system.clj" "site.clj" "settings.clj" "session.clj" "server.clj" "scheduler.clj" "route.clj" "response.clj" "RenderException.clj" "render.clj" "publish.clj" "page.clj" "ObjectException.clj" "object.clj" "movement.clj" "modules/" "ModuleException.clj" "module.clj" "module/" "migrator.clj" "middleware.clj" "logger.clj" "i18n.clj" "downstream.clj" "DatabaseException.clj" "database.clj" "core.clj" "cast.clj" "CacheException.clj" "cache.clj" "cache/" "auth.clj" "AreaException.clj" "area.clj" "admin.clj" "admin/" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-core/src/" (22263 44495 0 0) "reverie/" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-core/" (22263 44495 0 0) "src/" "resources/" "README.md" "project.clj" "doc/" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/reverie/sql/objects/" (22263 44495 0 0) "text.clj" "raw.clj" "migrations/" "image.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/reverie/sql/" (22263 44495 0 0) "objects/" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/reverie/" (22263 44495 0 0) "sql/" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/src/" (22263 44495 0 0) "reverie/" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/reverie-batteries/" (22263 44495 0 0) "src/" "README.md" "project.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/tools/" (22263 44495 0 0) "settings.edn" "eyespy.editing" "eyespy" "editing.compile" "admin.compile" "../" "./")
+
+ ("/Users/or/CLOJURE/reverie/" (22263 44495 0 0) "tools/" "reverie-test/" "reverie-sql/" "reverie-core/" "reverie-batteries/" "README.md" "project.clj" "less/" "doc/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/reverie/src/reverie/" (22263 51955 0 0) "core.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/reverie/src/" (22263 51955 0 0) "reverie/" "../" "./")
+
+ ("/Users/or/CLOJURE/olleromo/reverie/" (22263 51955 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/or/.lein/" (22263 51812 0 0) "self-installs/" "repl-history" "profiles.clj" "indices/" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/prod-target/" (22261 59549 0 0) "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/clj/joy/gui/" (21369 42736 0 0) "socks.clj" "DynaFrame.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/clj/joy/" (22161 37473 0 0) "web.clj" "units.clj" "unit_testing.clj" "tryout.clj" "sql.clj" "sim_test.clj" "refs.clj" "q.clj" "promises.clj" "patterns/" "mutation.clj" "macros.clj" "macro_tunes.clj" "logic/" "gui/" "generators.clj" "futures.clj" "fun.clj" "externs_for_cljs.clj" "except.clj" "event_sourcing.clj" "chess.clj" "cells.clj" "cat.clj" "agents.clj" "a.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/cljs/" (22261 55998 0 0) "joy/" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/clj/" (22261 55987 0 0) "joy/" "data_readers.clj" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/JoyOfClojureBook/src/" (22261 55987 0 0) "cljs/" "clj/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/resources/public/css/" (22255 22038 0 0) "min/" "app.css" ".DS_Store" "../" "./")
+
+ ("/Users/or/.emacs.d/elpa/scss-mode-0.5.0/" (22255 5464 0 0) "scss-mode.el" "scss-mode-pkg.el" "scss-mode-autoloads.el" "../" "./")
+
+ ("/Users/" (22196 49882 0 0) "Shared/" "or/" "Guest/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/src/" (22254 53460 0 0) "sass/" "js/" "html/" "clj/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/resources/public/" (22254 52023 0 0) "js/" "images/" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/resources/" (22254 51132 0 0) "public/" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/resources/public/" (22253 63983 0 0) "js/" "images/" "favicon.ico" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/restaurants/src/scss/" (22254 51987 0 0) "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/test/public_transportation/" (22254 48757 0 0) "handler_test.clj" "../" "./")
+
+ ("/Users/or/UDACITY/" (22254 50980 0 0) "setTimeout-start.js" "setTimeout-start.html" "San_Francisco_Market_Street_between_4th_and_5th_St.jpg" "restaurants/" "public_transportation/" "index.js" "index.html" "GTFS Caltrain Devs.zip" "fastform.zip" "fastform/" "exoplanet-explorer/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/" (22245 34292 0 0) "scss/" "README.md" "package.json" "LICENSE" "js/" "foundation-docs/" "docslink.sh" "dist/" "assets/" "_debug.json" ".travis.yml" ".scss-lint.yml" ".npmignore" ".npm/" ".eslintrc" ".bowerrc" ".babelrc" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/scss/" (22245 34291 0 0) "util/" "typography/" "settings/" "grid/" "foundation.scss" "forms/" "components/" "_global.scss" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/test/" (22236 20606 0 0) "public_transportation/" "../" "./")
+
+ ("/Users/or/UDACITY/exoplanet-explorer/" (22235 27109 0 0) "wct.conf.json" "README.md" "package.json" "node_modules/" "LICENSE.md" "gulpfile.js" "docs/" "dist/" "bower_components/" "bower.json" "app/" ".tmp/" ".jshintrc" ".jscsrc" ".gitignore" ".gitattributes" ".git/" ".editorconfig" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/node_modules/foundation-sites/scss/settings/" (22224 43322 0 0) "_settings.scss" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/node_modules/" (22238 6522 0 0) "yargs/" "yallist/" "y18n/" "xtend/" "xregexp/" "xmlhttprequest/" "ws/" "write/" "wrappy/" "wrap-ansi/" "wordwrap/" "window-size/" "win-spawn/" "which/" "what-input/" "weinre/" "vm-browserify/" "vinyl-sourcemaps-apply/" "vinyl-source-stream/" "vinyl-fs/" "vinyl/" "verror/" "validate-npm-package-license/" "v8flags/" "utils-merge/" "util-deprecate/" "util/" "utf8/" "utf-8-validate/" "user-home/" "url/" "unpipe/" "unique-stream/" "underscore.string/" "underscore/" "umd/" "ultron/" "uid-number/" "uglify-js/" "ucfirst/" "ua-parser-js/" "typedarray/" "type-check/" "tweetnacl/" "tv4/" "tunnel-agent/" "tty-browserify/" "tryit/" "trim-newlines/" "tough-cookie/" "touch/" "to-arraybuffer/" "to-array/" "timers-browserify/" "time-stamp/" "tildify/" "through2/" "through/" "tfunk/" "text-table/" "tar/" "table/" "syntax-error/" "supports-color/" "subarg/" "strip-json-comments/" "strip-indent/" "strip-bom/" "strip-ansi/" "stringstream/" "string_decoder/" "string-width/" "strict-uri-encode/" "stream-throttle/" "stream-splicer/" "stream-http/" "stream-consume/" "stream-combiner2/" "stream-browserify/" "statuses/" "sshpk/" "sprintf-js/" "spdx-license-ids/" "spdx-expression-parse/" "spdx-exceptions/" "spdx-correct/" "spawn-sync/" "sparkles/" "source-map/" "socket.io-parser/" "socket.io-client/" "socket.io-adapter/" "socket.io/" "sntp/" "slice-ansi/" "signal-exit/" "sigmund/" "shelljs/" "shell-quote/" "shasum/" "sha.js/" "serve-static/" "serve-index/" "sequencify/" "send/" "semver/" "sass-graph/" "rx-lite/" "run-async/" "ripemd160/" "rimraf/" "restore-cursor/" "resp-modifier/" "resolve-from/" "resolve/" "requires-port/" "requirejs/" "require-uncached/" "request/" "replace-ext/" "repeating/" "repeat-string/" "repeat-element/" "regex-cache/" "redent/" "rechoir/" "readline2/" "readdirp/" "readable-stream/" "read-pkg-up/" "read-pkg/" "read-only-stream/" "read-json-sync/" "range-parser/" "randombytes/" "randomatic/" "querystring-es3/" "querystring/" "query-string/" "qs/" "punycode/" "public-encrypt/" "pseudomap/" "proto-list/" "promised-io/" "progress/" "process-nextick-args/" "process/" "pretty-hrtime/" "preserve/" "prelude-ls/" "portscanner/" "pluralize/" "pinkie-promise/" "pinkie/" "pify/" "pbkdf2/" "path-type/" "path-platform/" "path-is-inside/" "path-is-absolute/" "path-exists/" "path-browserify/" "path-array/" "parseurl/" "parseuri/" "parseqs/" "parsejson/" "parse-json/" "parse-glob/" "parse-asn1/" "parents/" "pako/" "osenv/" "os-tmpdir/" "os-shim/" "os-locale/" "os-homedir/" "os-browserify/" "ordered-read-streams/" "orchestrator/" "options/" "optionator/" "optimist/" "opt-merger/" "opn/" "openurl/" "onetime/" "once/" "on-finished/" "object.omit/" "object-path/" "object-keys/" "object-component/" "object-assign/" "oauth-sign/" "number-is-nan/" "npmlog/" "npmconf/" "normalize-path/" "normalize-package-data/" "nopt/" "node-uuid/" "node-sass/" "node-gyp/" "negotiator/" "nan/" "mute-stream/" "multipipe/" "ms/" "module-deps/" "modernizr/" "mkdirp/" "minimist/" "minimatch/" "minimalistic-assert/" "mime-types/" "mime-db/" "mime/" "miller-rabin/" "micromatch/" "meow/" "marked/" "map-obj/" "lru-cache/" "loud-rejection/" "longest/" "lodash.values/" "lodash.tostring/" "lodash.toplainobject/" "lodash.templatesettings/" "lodash.template/" "lodash.restparam/" "lodash.repeat/" "lodash.padstart/" "lodash.padend/" "lodash.pad/" "lodash.merge/" "lodash.memoize/" "lodash.keysin/" "lodash.keys/" "lodash.istypedarray/" "lodash.isplainobject/" "lodash.isobject/" "lodash.isarray/" "lodash.isarguments/" "lodash.escape/" "lodash.defaults/" "lodash._shimkeys/" "lodash._root/" "lodash._reunescapedhtml/" "lodash._reinterpolate/" "lodash._reevaluate/" "lodash._reescape/" "lodash._objecttypes/" "lodash._isnative/" "lodash._isiterateecall/" "lodash._htmlescapes/" "lodash._getnative/" "lodash._escapestringchar/" "lodash._escapehtmlchar/" "lodash._createassigner/" "lodash._bindcallback/" "lodash._basevalues/" "lodash._basetostring/" "lodash._basefor/" "lodash._basecopy/" "lodash._arrayeach/" "lodash._arraycopy/" "lodash/" "localtunnel/" "load-json-file/" "limiter/" "liftoff/" "lexical-scope/" "levn/" "lcid/" "lazy-cache/" "labeled-stream-splicer/" "klaw/" "kind-of/" "jsprim/" "JSONStream/" "jsonpointer/" "jsonparse/" "jsonify/" "jsonfile/" "json3/" "json-stringify-safe/" "json-stable-stringify/" "json-schema/" "jsbn/" "js-yaml/" "jquery/" "jodid25519/" "jasmine-core/" "jasmine/" "isstream/" "isobject/" "isexe/" "isarray/" "is-utf8/" "is-typedarray/" "is-resolvable/" "is-relative/" "is-property/" "is-primitive/" "is-path-inside/" "is-path-in-cwd/" "is-path-cwd/" "is-number/" "is-my-json-valid/" "is-glob/" "is-fullwidth-code-point/" "is-finite/" "is-extglob/" "is-extendable/" "is-equal-shallow/" "is-dotfile/" "is-builtin-module/" "is-buffer/" "is-binary-path/" "is-arrayish/" "is-absolute/" "invert-kv/" "interpret/" "insert-module-globals/" "inquirer/" "inline-source-map/" "ini/" "inherits/" "inflight/" "indexof/" "indent-string/" "immutable/" "ignore/" "ieee754/" "https-browserify/" "http-signature/" "http-proxy/" "http-errors/" "htmlescape/" "hosted-git-info/" "hooker/" "hoek/" "hawk/" "hash.js/" "has-unicode/" "has-gulplog/" "has-cors/" "has-binary-data/" "has-binary/" "has-ansi/" "has/" "har-validator/" "handlebars/" "gulplog/" "gulp-util/" "gulp-sass/" "gulp-modernizr/" "gulp-jasmine-phantom/" "gulp-header/" "gulp-eslint/" "gulp-concat/" "gulp/" "grunt-legacy-log-utils/" "grunt-legacy-log/" "graceful-readlink/" "graceful-fs/" "glogg/" "globule/" "globby/" "globals/" "global/" "glob2base/" "glob-watcher/" "glob-stream/" "glob-parent/" "glob-base/" "glob/" "get-stdin/" "generate-object-property/" "generate-function/" "gaze/" "gauge/" "function-bind/" "fstream/" "fsevents/" "fs-extra/" "fresh/" "foxy/" "foundation-sites/" "formidable/" "form-data/" "forever-agent/" "for-own/" "for-in/" "flat-cache/" "flagged-respawn/" "first-chunk-stream/" "findup-sync/" "find-up/" "find-parent-dir/" "find-index/" "finalhandler/" "fill-range/" "filename-regex/" "file-entry-cache/" "file/" "figures/" "fast-levenshtein/" "fancy-log/" "extsprintf/" "extglob/" "extend/" "express/" "expand-range/" "expand-brackets/" "exit-hook/" "exit/" "evp_bytestokey/" "events/" "eventemitter3/" "event-emitter/" "etag/" "esutils/" "estraverse/" "esrecurse/" "esprima/" "espree/" "eslint/" "escope/" "escape-string-regexp/" "escape-html/" "es6-weak-map/" "es6-symbol/" "es6-set/" "es6-map/" "es6-iterator/" "es5-ext/" "error-ex/" "engine.io-parser/" "engine.io-client/" "engine.io/" "end-of-stream/" "emitter-steward/" "elliptic/" "ee-first/" "ecc-jsbn/" "eazy-logger/" "easy-extender/" "duplexer2/" "domain-browser/" "doctrine/" "diffie-hellman/" "dev-ip/" "detective/" "destroy/" "des.js/" "deps-sort/" "deprecated/" "depd/" "delegates/" "delayed-stream/" "del/" "defined/" "defaults/" "deep-is/" "deep-equal/" "decamelize/" "debug/" "dateformat/" "date-now/" "dashdash/" "d/" "customizr/" "ctype/" "crypto-browserify/" "cryptiles/" "cross-spawn-async/" "cross-spawn/" "create-hmac/" "create-hash/" "create-ecdh/" "core-util-is/" "convert-source-map/" "constants-browserify/" "console-browserify/" "connect-history-api-fallback/" "connect/" "config-chain/" "concat-with-sourcemaps/" "concat-stream/" "concat-map/" "component-inherit/" "component-emitter/" "component-bind/" "commander/" "combined-stream/" "combine-source-map/" "colors/" "color-convert/" "code-point-at/" "clone-stats/" "clone/" "cliui/" "cli-width/" "cli-cursor/" "cipher-base/" "chokidar/" "chalk/" "caseless/" "camelcase-keys/" "camelcase/" "callsites/" "callsite/" "caller-path/" "builtin-status-codes/" "builtin-modules/" "bufferutil/" "bufferstreams/" "buffer-xor/" "buffer/" "bs-recipes/" "browserify-zlib/" "browserify-sign/" "browserify-rsa/" "browserify-des/" "browserify-cipher/" "browserify-aes/" "browserify/" "browser-sync-ui/" "browser-sync-client/" "browser-sync/" "browser-resolve/" "browser-pack/" "brorand/" "braces/" "brace-expansion/" "boom/" "bn.js/" "bluebird/" "block-stream/" "blob/" "bl/" "bindings/" "binary-extensions/" "better-assert/" "benchmark/" "beeper/" "batch/" "base64id/" "base64-js/" "base64-arraybuffer/" "balanced-match/" "backo2/" "aws4/" "aws-sign2/" "async-foreach/" "async-each-series/" "async-each/" "async/" "astw/" "assert-plus/" "assert/" "asn1.js/" "asn1/" "arrify/" "arraybuffer.slice/" "array-unique/" "array-uniq/" "array-union/" "array-reduce/" "array-map/" "array-index/" "array-find-index/" "array-filter/" "array-differ/" "arr-flatten/" "arr-diff/" "argparse/" "are-we-there-yet/" "archy/" "anymatch/" "ansi-styles/" "ansi-regex/" "ansi-escapes/" "ansi/" "amdefine/" "after/" "acorn-jsx/" "acorn/" "accepts/" "abbrev/" ".bin/" "../" "./")
+
+ ("/Users/or/.emacs.d/elpa/sass-mode-3.0.18/" (22066 39491 0 0) "sass-mode.elc" "sass-mode.el" "sass-mode-pkg.elc" "sass-mode-pkg.el" "sass-mode-autoloads.el" "../" "./")
+
+ ("/Users/or/.emacs.d/elpa/" (22237 59979 0 0) "yasnippet-0.9.0.1/" "web-mode-13.1/" "solarized-theme-1.2.2/" "smex-3.0/" "seq-1.11.signed" "seq-1.11/" "scss-mode-0.5.0/" "sass-mode-3.0.18/" "s-1.10.0/" "rainbow-delimiters-2.1.1/" "queue-0.1.1/" "pkg-info-0.6/" "peg-0.6/" "paredit-24/" "multiple-cursors-1.3.0/" "let-alist-1.0.4/" "less-css-mode-readme.txt" "less-css-mode-0.20/" "js2-mode-20150909.signed" "js2-mode-20150909/" "hl-sexp-1.0.0/" "haml-mode-3.1.9/" "gnupg/" "flycheck-clojure-0.1.3/" "flycheck-0.25.1/" "flycheck-0.24/" "expand-region-0.10.0/" "exec-path-from-shell-1.10/" "epl-71.4.8098/" "emmet-mode-1.0.8/" "edn-1.1.2/" "dash-2.12.1/" "company-0.8.12/" "clojure-mode-4.1.0/" "clj-refactor-1.1.0/" "cider-0.9.1/" "archives/" "../" "./")
+
+ ("/Users/or/.emacs.d/site-lisp/" (22064 4015 0 0) "flycheck-20150207.329/" "archives/" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/" (22238 383 0 0) "sass/" "js/" "images/" "html/" "clj/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/resources/" (22236 20606 0 0) "public/" "../" "./")
+
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/src/scss/" (22236 23460 0 0) "site.scss" "site.css.map" "site.css" "foundation.scss" "foundation.css" ".sass-cache/" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/clj-soap/src/clj_soap/" (22236 44012 0 0) "core.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/clj-soap/src/" (22236 44012 0 0) "clj_soap/" "../" "./")
+
+ ("/Users/or/CLOJURE/clj-soap/" (22236 44012 0 0) "test/" "src/" "README.md" "project.clj" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/or/UDACITY/fastform/src/fastform/" (22230 56118 0 0) "udacityform.clj" "server.clj" "js/" "handler.clj" "form.clj" "db.clj" "css/" "bower_components/" "bower.json" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/fastform/src/" (22219 3439 0 0) "fastform/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/fastform/" (22234 55422 0 0) "test.db" "test/" "target/" "src/" "resources/" "README.md" "project.clj" "gulpfile.js" "fastform.iml" ".lein-repl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/or/UDACITY/public_transportation/src/public_transportation/" (22236 20606 0 0) "handler.clj" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/data/planets/" (22231 53268 0 0) "Kepler-69c.json" "Kepler-62f.json" "Kepler-452b.json" "Kepler-22b.json" "Kepler-186f.json" "GJ667Cc.json" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/scripts/" (22236 13862 0 0) "polymer-starter-kit-misc.js" "app.js" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/" (22235 27109 0 0) "wct.conf.json" "README.md" "package.json" "node_modules/" "LICENSE.md" "gulpfile.js" "docs/" "dist/" "bower_components/" "bower.json" "app/" ".tmp/" ".jshintrc" ".jscsrc" ".gitignore" ".gitattributes" ".git/" ".editorconfig" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/dist/" (22235 360 0 0) "styles/" "scripts/" "robots.txt" "manifest.json" "index.html" "index.build.js" "images/" "favicon.ico" "elements/" "data/" "bower_components/" "../" "./")
+
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/" (22235 280 0 0) "test/" "target/" "system.properties" "src/" "resources/" "README.md" "project.clj" "Procfile" "package.json" "nutch-webapp.iml" "node_modules/" "LICENSE" "gulpfile.js" "eslint.config.json" "doc/" "CHANGELOG.md" ".sass-cache/" ".lein-repl-history" ".lein-env" ".idea/" ".hgignore" ".gitignore" ".git/" ".DS_Store" "#package.json#" "../" "./")
+
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/src/clj/" (22234 65219 0 0) "server.clj" "nutchAPI.clj" "mainpage.clj" "handler.clj" "feedbackpage.clj" "db.clj" "core.clj" "controlpage.clj" "configpage.clj" ".DS_Store" "#client.clj#" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/fastform/src/fastform/" (22230 56118 0 0) "udacityform.clj" "server.clj" "js/" "handler.clj" "form.clj" "db.clj" "css/" "bower_components/" "bower.json" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/fastform/resources/public/css/" (22230 56570 0 0) "styles4.css" "styles.css" "placeautocomplete.css" "foundation.min.css" "foundation.css" "foundation-flex.css" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/fastform/resources/public/js/" (22230 56801 0 0) "placeautocomplete.js" "placeautocomplete-min.js" "organizer.js" "organizer-min.js" "organize.js" "organize-min.js" "meetup.js" "meetup-min.js" "jquery.validate.js" "jquery.validate-min.js" "jquery.js" "jquery-min.js" "foundation.min.js" "foundation.min-min.js" "foundation.js" "foundation-min.js" "additional-methods.js" "additional-methods-min.js" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/fastform/" (22234 55422 0 0) "test.db" "test/" "target/" "src/" "resources/" "README.md" "project.clj" "gulpfile.js" "fastform.iml" ".lein-repl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/nutch-webapp-dir/nutch_webapp/resources/public/css/" (22212 24798 0 0) "site.css" "settings.css" "foundation.css" ".DS_Store" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/node_modules/" (22231 53742 0 0) "zip-stream/" "yauzl/" "yargs/" "y18n/" "xtend/" "xmlhttprequest/" "xmldom/" "xmlbuilder/" "xdg-basedir/" "ws/" "write-file-atomic/" "wrappy/" "wrap-fn/" "wrap-ansi/" "wordwrapjs/" "wordwrap/" "window-size/" "widest-line/" "which/" "whet.extend/" "weinre/" "web-component-tester/" "wd/" "wct-sauce/" "wct-local/" "ware/" "vulcanize/" "vinyl-sourcemaps-apply/" "vinyl-fs/" "vinyl-assign/" "vinyl/" "verror/" "vasync/" "vary/" "vargs/" "validate-npm-package-license/" "vali-date/" "v8flags/" "uuid/" "utils-merge/" "util-deprecate/" "utf8/" "utf-8-validate/" "user-home/" "url-regex/" "url-parse-lax/" "urijs/" "update-notifier/" "unzip-response/" "unzip/" "unpipe/" "unique-stream/" "underscore.string/" "underscore/" "ultron/" "uglify-to-browserify/" "uglify-save-license/" "uglify-js/" "ucfirst/" "ua-parser-js/" "typical/" "typedarray/" "type-is/" "type-check/" "tunnel-agent/" "try-json-parse/" "trim-repeated/" "trim-newlines/" "traverse/" "tough-cookie/" "to-array/" "to-absolute-glob/" "timers-ext/" "timed-out/" "time-stamp/" "tildify/" "through2-filter/" "through2-concurrent/" "through2/" "through/" "tfunk/" "textextensions/" "text-table/" "text-hex/" "test-value/" "ternary-stream/" "tempfile/" "temp-write/" "temp/" "tar-stream/" "svgo/" "supports-color/" "sum-up/" "strip-outer/" "strip-json-comments/" "strip-indent/" "strip-dirs/" "strip-bom-stream/" "strip-bom/" "strip-ansi/" "stringstream/" "string_decoder/" "string-width/" "string-length/" "strict-uri-encode/" "stream-via/" "stream-transform/" "stream-throttle/" "stream-consume/" "stream-connect/" "stream-combiner2/" "stream-combiner/" "statuses/" "stat-mode/" "stacky/" "squeak/" "sprintf-js/" "split/" "spdy/" "spdx-license-ids/" "spdx-expression-parse/" "spdx-exceptions/" "spdx-correct/" "sparkles/" "source-map/" "sort-array/" "socket.io-parser/" "socket.io-client/" "socket.io-adapter/" "socket.io/" "sntp/" "slide/" "slice-stream/" "signal-exit/" "sigmund/" "shelljs/" "setimmediate/" "set-immediate-shim/" "server-destroy/" "serve-waterfall/" "serve-static/" "serve-index/" "sequencify/" "send/" "semver-truncate/" "semver-regex/" "semver-diff/" "semver/" "selenium-standalone/" "seek-bzip/" "sax/" "sauce-connect-launcher/" "safe-json-stringify/" "run-sequence/" "rimraf/" "right-align/" "restify/" "resp-modifier/" "resolve/" "requires-port/" "require-dir/" "request/" "replacestream/" "replace-ext/" "repeating/" "repeat-string/" "repeat-element/" "registry-url/" "regex-cache/" "reduce-without/" "reduce-unique/" "reduce-flatten/" "reduce-extract/" "redent/" "rechoir/" "readdirp/" "readable-stream/" "read-pkg-up/" "read-pkg/" "read-all-stream/" "rcloader/" "rcfinder/" "rc/" "range-parser/" "randomatic/" "query-string/" "qs/" "q/" "pullstream/" "proxy-addr/" "progress/" "process-nextick-args/" "pretty-hrtime/" "pretty-bytes/" "preserve/" "prepend-http/" "prelude-ls/" "precond/" "postcss/" "portscanner/" "polyclean/" "polybuild/" "plur/" "plugin-error/" "plist/" "pinkie-promise/" "pinkie/" "pify/" "pend/" "pause-stream/" "path-type/" "path-to-regexp/" "path-posix/" "path-is-inside/" "path-is-absolute/" "path-exists/" "parseurl/" "parseuri/" "parseqs/" "parsejson/" "parse5/" "parse-json/" "parse-glob/" "pako/" "package-json/" "over/" "osenv/" "os-tmpdir/" "os-locale/" "os-homedir/" "os-filter-obj/" "ordered-read-streams/" "orchestrator/" "optipng-bin/" "options/" "optionator/" "optional/" "opt-merger/" "opn/" "openurl/" "onetime/" "once/" "on-finished/" "object.pick/" "object.omit/" "object-tools/" "object-path/" "object-keys/" "object-get/" "object-component/" "object-assign/" "oauth-sign/" "number-is-nan/" "num2fraction/" "normalize-path/" "normalize-package-data/" "nopt/" "nomnom/" "node-uuid/" "node-useref/" "node-status-codes/" "node-int64/" "next-tick/" "nested-error-stacks/" "negotiator/" "ncp/" "nan/" "mv/" "multipipe/" "multimatch/" "ms/" "moment/" "mkdirp/" "minimize/" "minimist/" "minimatch/" "mime-types/" "mime-db/" "mime/" "micromatch/" "methods/" "merge-stream/" "merge-descriptors/" "meow/" "memoizee/" "media-typer/" "match-stream/" "map-stream/" "map-obj/" "lru-queue/" "lru-cache/" "lpad-align/" "lpad/" "lowercase-keys/" "loud-rejection/" "longest/" "logalot/" "log-symbols/" "lodash.values/" "lodash.toplainobject/" "lodash.templatesettings/" "lodash.template/" "lodash.restparam/" "lodash.merge/" "lodash.keysin/" "lodash.keys/" "lodash.istypedarray/" "lodash.isplainobject/" "lodash.isobject/" "lodash.isequal/" "lodash.isarray/" "lodash.isarguments/" "lodash.escape/" "lodash.defaults/" "lodash._stack/" "lodash._shimkeys/" "lodash._root/" "lodash._reunescapedhtml/" "lodash._reinterpolate/" "lodash._reevaluate/" "lodash._reescape/" "lodash._objecttypes/" "lodash._isnative/" "lodash._isiterateecall/" "lodash._htmlescapes/" "lodash._getnative/" "lodash._escapestringchar/" "lodash._escapehtmlchar/" "lodash._createassigner/" "lodash._bindcallback/" "lodash._basevalues/" "lodash._basetostring/" "lodash._basefor/" "lodash._basecopy/" "lodash._arrayeach/" "lodash._arraycopy/" "lodash/" "localtunnel/" "load-json-file/" "limiter/" "liftoff/" "levn/" "lcid/" "lazystream/" "lazypipe/" "lazy-req/" "lazy-cache/" "launchpad/" "latest-version/" "kuler/" "klaw/" "kind-of/" "keep-alive-agent/" "jsonpointer/" "jsonify/" "jsonfile/" "json3/" "json-stringify-safe/" "json-stable-stringify/" "jshint-stylish/" "jshint/" "js-yaml/" "js-base64/" "jpegtran-bin/" "istextorbinary/" "isstream/" "isobject/" "isexe/" "isarray/" "is-zip/" "is-valid-glob/" "is-utf8/" "is-url/" "is-tar/" "is-svg/" "is-stream/" "is-retry-allowed/" "is-relative-url/" "is-relative/" "is-redirect/" "is-property/" "is-primitive/" "is-png/" "is-plain-obj/" "is-path-inside/" "is-path-in-cwd/" "is-path-cwd/" "is-obj/" "is-number/" "is-npm/" "is-natural-number/" "is-my-json-valid/" "is-jpg/" "is-gzip/" "is-glob/" "is-gif/" "is-fullwidth-code-point/" "is-finite/" "is-extglob/" "is-extendable/" "is-equal-shallow/" "is-dotfile/" "is-bzip2/" "is-builtin-module/" "is-buffer/" "is-binary-path/" "is-arrayish/" "is-absolute-url/" "is-absolute/" "irregular-plurals/" "ipaddr.js/" "ip-regex/" "invert-kv/" "interpret/" "ini/" "inherits/" "inherit/" "inflight/" "infinity-agent/" "indexof/" "indent-string/" "imurmurhash/" "immutable/" "imagemin-svgo/" "imagemin-optipng/" "imagemin-jpegtran/" "imagemin-gifsicle/" "imagemin/" "hydrolysis/" "http-signature/" "http-proxy/" "http-errors/" "htmlparser2/" "hosted-git-info/" "hoek/" "hawk/" "has-gulplog/" "has-cors/" "has-color/" "has-binary-data/" "has-binary/" "has-ansi/" "har-validator/" "gzip-size/" "gulplog/" "gulp-vulcanize/" "gulp-util/" "gulp-useref/" "gulp-uglify/" "gulp-sourcemaps/" "gulp-size/" "gulp-replace/" "gulp-rename/" "gulp-minify-html/" "gulp-match/" "gulp-load-plugins/" "gulp-jshint/" "gulp-imagemin/" "gulp-if/" "gulp-decompress/" "gulp-cssmin/" "gulp-crisper/" "gulp-concat/" "gulp-changed/" "gulp-cache/" "gulp-autoprefixer/" "gulp/" "graceful-readlink/" "graceful-fs/" "got/" "glogg/" "globule/" "globby/" "global/" "glob2base/" "glob-watcher/" "glob-stream/" "glob-parent/" "glob-base/" "glob/" "gifsicle/" "get-stdin/" "get-proxy/" "generate-object-property/" "generate-function/" "gaze/" "fstream/" "fsevents/" "fs-extra/" "from/" "fresh/" "freeport/" "foxy/" "forwarded/" "formidable/" "form-data/" "fork-stream/" "forever-agent/" "for-own/" "for-in/" "flagged-respawn/" "first-chunk-stream/" "findup-sync/" "find-versions/" "find-up/" "find-replace/" "find-index/" "finalhandler/" "filter-where/" "filled-array/" "fill-range/" "filesize/" "filenamify/" "filename-reserved-regex/" "filename-regex/" "file-type/" "figures/" "feature-detect-es6/" "fd-slicer/" "fast-levenshtein/" "fancy-log/" "extsprintf/" "extglob/" "extend-shallow/" "extend/" "express/" "expand-range/" "expand-brackets/" "exit/" "executable/" "exec-series/" "exec-buffer/" "eventemitter3/" "event-stream/" "event-emitter/" "etag/" "esutils/" "estraverse/" "esprima/" "escodegen/" "escape-string-regexp/" "escape-regexp-component/" "escape-html/" "es6-weak-map/" "es6-symbol/" "es6-promise/" "es6-iterator/" "es5-ext/" "error-ex/" "env-variable/" "entities/" "engine.io-parser/" "engine.io-client/" "engine.io/" "end-of-stream/" "enabled/" "emitter-steward/" "emits/" "ee-first/" "eazy-logger/" "easy-extender/" "each-async/" "duplexify/" "duplexer2/" "duplexer/" "dtrace-provider/" "download/" "domutils/" "domhandler/" "domelementtype/" "dom5/" "dom-serializer/" "doctrine/" "diagnostics/" "dev-ip/" "destroy/" "deprecated/" "depd/" "delayed-stream/" "del/" "defaults/" "deep-is/" "deep-extend/" "decompress-unzip/" "decompress-targz/" "decompress-tarbz2/" "decompress-tar/" "decompress/" "decamelize/" "debug/" "deap/" "dateformat/" "date-now/" "d/" "ctype/" "csv-stringify/" "csv-parse/" "csv-generate/" "csv/" "csso/" "cryptiles/" "crisper/" "create-error-class/" "crc32-stream/" "crc/" "core-util-is/" "core-js/" "cookie-signature/" "cookie/" "convert-source-map/" "content-type/" "content-disposition/" "console-stream/" "console-browserify/" "connect-history-api-fallback/" "connect/" "configstore/" "concat-with-sourcemaps/" "concat-stream/" "concat-map/" "compress-commons/" "component-inherit/" "component-emitter/" "component-bind/" "commander/" "command-line-usage/" "command-line-args/" "combined-stream/" "column-layout/" "colorspace/" "colors/" "colornames/" "color-string/" "color-name/" "color-convert/" "color/" "collect-json/" "collect-all/" "code-point-at/" "coa/" "co/" "clone-stats/" "clone/" "cliui/" "cli-color/" "cli/" "cleankill/" "clean-css/" "clap/" "chokidar/" "chalk/" "chainsaw/" "center-align/" "caw/" "caseless/" "capture-stack-trace/" "caniuse-db/" "camelcase-keys/" "camelcase/" "callsite/" "cache-swap/" "bunyan/" "builtin-modules/" "bufferutil/" "buffers/" "buffer-to-vinyl/" "buffer-crc32/" "bs-recipes/" "browserstack/" "browserslist/" "browserify-zlib/" "browser-sync-ui/" "browser-sync-client/" "browser-sync/" "braces/" "brace-expansion/" "boxen/" "bower/" "boom/" "bluebird/" "blob/" "bl/" "bindings/" "binaryextensions/" "binary-extensions/" "binary/" "bin-wrapper/" "bin-version-check/" "bin-version/" "bin-check/" "bin-build/" "better-assert/" "benchmark/" "beeper/" "batch/" "base64id/" "base64-js/" "base64-arraybuffer/" "balanced-match/" "backoff/" "backo2/" "aws-sign2/" "autoprefixer-core/" "async-each-series/" "async-each/" "async/" "assert-plus/" "asn1/" "arrify/" "arraybuffer.slice/" "array-unique/" "array-uniq/" "array-union/" "array-tools/" "array-slice/" "array-flatten/" "array-find-index/" "array-differ/" "array-back/" "arr-union/" "arr-flatten/" "arr-diff/" "argparse/" "argh/" "archy/" "archiver/" "archive-type/" "anymatch/" "ansi-wrap/" "ansi-styles/" "ansi-regex/" "ansi-red/" "ansi-escape-sequences/" "ansi-cyan/" "amdefine/" "align-text/" "after/" "adm-zip/" "accepts/" "abbrev/" ".bin/" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/elements/" (22231 53268 0 0) "scale-visualizer/" "routing.html" "planet-thumb/" "elements.html" "behaviors/" "../" "./")
+
+ ("/Users/or/CLOJURE/UDACITY/exoplanet-explorer/app/data/" (22231 53268 0 0) "planets/" "earth-like-results.json" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
