@@ -263,6 +263,8 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/usr/local/var/mongodb/journal/" (22396 55740 0 0) "WiredTigerPreplog.0000000002" "WiredTigerPreplog.0000000001" "WiredTigerLog.0000000001" "../" "./")
+
  ("/Users/or/.emacs.d/lisp/" (22307 47106 0 0) "user-customizations.el~" "user-customizations.el" "init-helm.el~" "init-helm.el" "helm-config.el" "cfg-paredit.el" "cfg-hlsexp.el" "cfg-flycheck.el" "cfg-cljrefactor.el" "cfg-cider.el" ".DS_Store" "../" "./")
 
  ("/Users/or/.emacs.d/" (22307 47379 0 0) "web-mode/" "url/" "themes/" "recentf" "orginit.el" "lisp/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "cider-history" "bookmarks" "auto-save-list/" ".DS_Store" "../" "./")
@@ -460,8 +462,6 @@
  ("/Users/or/CLOJURE/reverie/reverie-batteries/src/" (22263 44495 0 0) "reverie/" "../" "./")
 
  ("/Users/or/CLOJURE/reverie/reverie-batteries/" (22263 44495 0 0) "src/" "README.md" "project.clj" "../" "./")
-
- ("/Users/or/CLOJURE/reverie/tools/" (22263 44495 0 0) "settings.edn" "eyespy.editing" "eyespy" "editing.compile" "admin.compile" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
