@@ -63,7 +63,7 @@
 ;; helm
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(load "/Users/or/.emacs.d/elpa/helm-20160409.357/helm-config.el")
+(load "~/.emacs.d/elpa/helm-20160409.357/helm-config.el")
 (require 'helm-config)
 (helm-mode 1)
 (global-set-key (kbd "M-x") 'helm-M-x)
